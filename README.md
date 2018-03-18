@@ -1,4 +1,4 @@
-#　EzeNotify 
+ #EzeNotify 
 
 A project for show the single Markdown document.
 
@@ -7,12 +7,12 @@ A project for show the single Markdown document.
 
 [Example](https://notify.meetwhy.com)
 
-## config.json
+ ##config.json
  
     {
-    "title": "EzeOrm-中文文档",
-    "date": "2018-03-17",
-    "toolbarTitle":"EzeOrm 中文文档"
+        "title": "EzeOrm-中文文档",
+        "date": "2018-03-17",
+        "toolbarTitle":"EzeOrm 中文文档"
     }
     
  - `title`: title of HTML document
